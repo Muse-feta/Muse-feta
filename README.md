@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Muse Feta</h1>
 <h3 align="center">Software Engineer | Full Stack Developer | MERN Stack Specialist</h3>
 
-<img align="right" alt="coding" width="450"  src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif"/>
+<img align="right" alt="coding" height="300"  src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif"/>
 
 
 
