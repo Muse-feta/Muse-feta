@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/D4E16AQEttda7o9OCvA/profile-displaybackgroundimage-shrink_350_1400/0/1707164854233?e=1716422400&v=beta&t=e20WXN6bm1yewmOS750_UsMb6yM6PyB1qsUf98B6kPE)](https://rishavchanda.io)
+[![MasterHead](https://pbs.twimg.com/media/Eww0SEGWUAEy6eX.jpg:large)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Muse Feta</h1>
 <h3 align="center">Software Engineer | Full Stack Developer | MERN Stack Specialist</h3>
