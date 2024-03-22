@@ -37,6 +37,7 @@ I'm a creative Full Stack Web Developer based in Ethiopia. I'm very passionate a
 Here are a few highlighted projects I've worked on:
 
 - [Amazon Clone](https://muse-amazon-clone.netlify.app/)
+- [Netflix Clone](https://muse-netflix.netlify.app/)
 - [Weather App](https://muse-weather.netlify.app/)
 - [Garage App](https://github.com/Muse-feta/GarageAppProject)
 
