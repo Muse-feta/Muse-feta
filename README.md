@@ -1,9 +1,9 @@
-[![MasterHead](https://github.com/Muse-feta/PrivateImages/blob/main/gitbanner1.gif)](https://rishavchanda.io)
+[![MasterHead](https://github.com/Muse-feta/Images/blob/main/gitbanner1.gif)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Muse Feta</h1>
 <h3 align="center">Software Engineer | Full Stack Developer | MERN Stack Specialist</h3> 
 
-<img align="right" alt="coding" width="400"  src="https://github.com/Muse-feta/PrivateImages/blob/main/gitsecondgif.gif"/>
+<img align="right" alt="coding" width="400"  src="https://github.com/Muse-feta/Images/blob/main/gitsecondgif.gif"/>
 
 
 
