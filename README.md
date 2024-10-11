@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/Muse-feta/Images/blob/main/gitbanner1.gif)](https://rishavchanda.io)
+[![MasterHead](https://github.com/Muse-feta/Images/blob/main/gitbanner1.gif)](https://rishavchanda.io) 
 
 <h1 align="center">Hi 👋, I'm Muse Feta</h1>
 <h3 align="center">Software Engineer | Full Stack Developer | MERN Stack Specialist</h3>
