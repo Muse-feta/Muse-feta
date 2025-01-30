@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://twitter.com/@musefeta" target="blank"><img src="https://img.shields.io/twitter/follow/@musefeta?logo=twitter&style=for-the-badge" alt="@musefeta" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://musefeta.netlify.app/](https://musefeta.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://musefeta.vercel.app](https://musefeta.vercel.app/)
 
 - 💬 Ask me about **react, node, express, mysql, mongodb, redux, tailwind, bootstrap**
 
