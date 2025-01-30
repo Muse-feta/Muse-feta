@@ -41,5 +41,5 @@ Here are a few highlighted projects I've worked on:
 - [Netflix Clone](https://muse-netflix.netlify.app/)
 - [Weather App](https://muse-weather.netlify.app/)
 
-Feel free to explore more on my [portfolio website](https://musefeta.netlify.app/). Don't hesitate to reach out if you have any questions or collaboration opportunities!
+Feel free to explore more on my [portfolio website](https://musefeta.vercel.app/). Don't hesitate to reach out if you have any questions or collaboration opportunities!
 
