@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://musefeta.vercel.app](https://musefeta.vercel.app/)
 
-- 💬 Ask me about **react, node, express, mysql, mongodb, redux, tailwind, bootstrap**
+- 💬 Ask me about **react, node, express, mysql, mongodb, redux, tailwind, bootstrap, javascript, python, typescript, solidity**
 
 - 📫 How to reach me **fetamuse@gmail.com**
 
